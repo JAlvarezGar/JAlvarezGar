@@ -14,7 +14,7 @@
 
 - 📫 Cómo comunicarse conmigo ** jjalvarezgar@gmail.com **
 
-- 📄 Conoce mis experiencias [https://www.linkedin.com/in/jes%C3%BAs-alvarez-garc%C3%ADa-3912b1164?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKrw6XholRqqhxEx0kD ] (https://www.linkedin.com/in/jes%C3%BAs-alvarez-garc%C3%ADa-3912b1164?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKrw6XholRqqhxEx0kIntTw%3D%3D)
+- 📄 Conoce mis experiencias [] (https://www.linkedin.com/in/jes%C3%BAs-alvarez-garc%C3%ADa-3912b1164?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKrw6XholRqqhxEx0kIntTw%3D%3D)
 
 - ⚡ dato curioso ** Rapsberry pi, Arduino ... **
 
