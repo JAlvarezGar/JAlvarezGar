@@ -4,9 +4,9 @@
 const thai = {
   pronombres: "he" | "him",
   código: [Javascript, HTML, CSS,Java, Android studio],
-  herramientas: [React, Redux, Node],
- 
- desafío: "Tras acabar mis estudios de Desarrollo multiplataforma \nme estoy formando en el desarrollo front end con React... y me encanta!!!"
+  herramientas: [React, Redux, Node], 
+  formación: "Acabados mis estudios de Desarrollo multiplataforma"
+  retos: " me estoy formando en el desarrollo front end con React... y me encanta!!!"
 }
 ''
 
