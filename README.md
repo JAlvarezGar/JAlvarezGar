@@ -1,4 +1,5 @@
 # 👋 Hi there, my name is Jesús Alvarez
+## I am a multiplatform application developer.
 https://photos.google.com/photo/AF1QipPQs464pj2eqXt-U5uSBiaK6RiYUJSKGI5xP8ji
 
 <!--
