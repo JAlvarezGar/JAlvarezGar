@@ -5,8 +5,8 @@
 const jesus = {
   code: [Javascript, HTML, CSS, Java, Android Studio],
   tools: [React, Redux, Node], 
-  academic training: "Acabados mis estudios de Desarrollo de aplicaciones multiplataforma",
-  challenges: " me estoy formando en el desarrollo front end con React... y me encanta!!!"
+  academic training: "Finished my studies of Development of multiplatform applications",
+  challenges: "I'm training in front end development with React ... and I love it !!!"
 }
 ''
 
