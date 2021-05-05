@@ -1,8 +1,14 @@
 # 👋 Hi there, my name is Jesús Alvarez
 ## I´m a multiplatform application developer.
-<img src="https://photos.google.com/photo/AF1QipPQs464pj2eqXt-U5uSBiaK6RiYUJSKGI5xP8ji" alt="miPerfil"/>
-
-![https://github.com/JAlvarezGar](https://photos.google.com/photo/AF1QipPQs464pj2eqXt-U5uSBiaK6RiYUJSKGI5xP8ji)
+`` `javascript
+const thai = {
+  pronombres: "ella" | "su",
+  código: [Javascript, HTML, CSS,Java, Android studio],
+  herramientas: [React, Redux, Node],
+ 
+ desafío: "Tras acabar mis estudios de Desarrollo multiplataforma me estoy formando en el desarrollo front end con React... y me encanta!!!"
+}
+''
 
 <!--
 **JAlvarezGar/JAlvarezGar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
