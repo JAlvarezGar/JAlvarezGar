@@ -19,7 +19,7 @@
 - ⚡ dato curioso ** Rapsberry pi, Arduino ... **
 
 
-<h3 align = "left"> Idiomas y herramientas: </h3>
+<h3 align = "left"> Languages & Tools: </h3>
 <p align = "left"> <a href="https://developer.android.com" target="_blank"> 
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/ icons / android / android-original-wordmark.svg "alt =" android "width =" 40 "height =" 40 "/> </a>
 <a href =" https://www.arduino.cc/ "objetivo = "_ blank"> <img src = "https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt = "arduino" width = "40" height = "40"/> 
