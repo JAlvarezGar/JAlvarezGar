@@ -1,7 +1,7 @@
 # 👋 Hi there, my name is Jesús Alvarez
 ## I´m a multiplatform application developer.
 ```js
-const thai = {
+const jesus = {
   pronombres: "he" | "him",
   código: [Javascript, HTML, CSS,Java, Android studio],
   herramientas: [React, Redux, Node], 
