@@ -6,7 +6,7 @@ const thai = {
   código: [Javascript, HTML, CSS,Java, Android studio],
   herramientas: [React, Redux, Node],
  
- desafío: "Tras acabar mis estudios de Desarrollo multiplataforma \<br>\ me estoy formando en el desarrollo front end con React... y me encanta!!!"
+ desafío: "Tras acabar mis estudios de Desarrollo multiplataforma \nme estoy formando en el desarrollo front end con React... y me encanta!!!"
 }
 ''
 
