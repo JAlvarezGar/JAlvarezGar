@@ -1,6 +1,6 @@
 # 👋 Hi there, my name is Jesús Alvarez
 ## I´m a multiplatform application developer.
-!(https://github.com/JAlvarezGar/JAlvarezGar)(https://photos.google.com/photo/AF1QipPQs464pj2eqXt-U5uSBiaK6RiYUJSKGI5xP8ji)
+!(https://github.com/JAlvarezGar)(https://photos.google.com/photo/AF1QipPQs464pj2eqXt-U5uSBiaK6RiYUJSKGI5xP8ji)
 
 <!--
 **JAlvarezGar/JAlvarezGar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
