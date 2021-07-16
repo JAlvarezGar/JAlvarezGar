@@ -1,6 +1,6 @@
 # 👋 Hi there, my name is Jesús Alvarez
 ## I´m a multiplatform application developer.
-![JUNIOR DEVELOPER](https://user-images.githubusercontent.com/51082512/117128824-33c63d80-ad9e-11eb-88e2-eb0ac1ae4fbd.png)
+![JUNIOR DEVELOPER](https://lh3.googleusercontent.com/xuxx7GdMB0BZUgmZ8iQonh44hnjTAEJ0VWYOh81YhS3O-r6GUtlk6ShJS8DIO7xnzLbWgil7VGJaGOmah3af-vzjBxKhJQMUI0nQCkQFDn9KiTrX9AgJ8fVWxsRkNcpXTSZSJvtlVA=w2400)
 
 #### A passionate developer from Spain
 
