@@ -4,7 +4,7 @@
 
 #### A passionate developer from Spain
 
-- **my profile** https://JAlvarezGar.github.io/
+- **my profile** https://jalvarezgar.github.io/
 
 - 🌱 I’m currently learning **React js**
 
